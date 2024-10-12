@@ -1,0 +1,17 @@
+*.exe
+
+*.dll
+_build/
+dist/
+out/
+build/
+
+*.log
+vendor/
+*.tmp
+
+*.vscode/
+.DS_Store
+
+.env
+.env.local
